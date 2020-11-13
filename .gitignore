@@ -1,0 +1,6 @@
+.env
+/target
+uploads/*
+blacklist
+./access_log
+./upload_log
